@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.swayamshah.com/">Website</a> ·
   <a href="https://www.linkedin.com/in/swayamshah/">LinkedIn</a> ·
-  <a href="mailto:shah_swayam@protonmail.com">Email</a> ·
+  <a href="mailto:swayam@sorachain.ai">Email</a> ·
   <a href="https://x.com/BotsnBlocks">X</a>
 </p>
 
