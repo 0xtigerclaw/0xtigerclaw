@@ -36,7 +36,6 @@
 - Founder of `Build Superagency` (AI Upskilling Workshops, The Netherlands) and `SoraChain AI`
 - Former roles across Binance, ZetaChain, and ICTU (Dutch Government)
 - Supported 200+ ecosystem teams on architecture, integration, and launch
-- Worked with technical and strategic stakeholders including Vodafone, Deutsche Telekom, T-Mobile, and STC
 - Speaker at NVIDIA, the Global Open-Source AI Conference, and OpenAI community events
 - Background in protocol design and cryptoeconomics spanning roughly a decade
 
