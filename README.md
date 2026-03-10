@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  For a long time, I could think in systems faster than I could build them. Codex and Claude Code changed that. 
-  Now I use a workflow that lets me turn architecture into working systems at the speed I design.
+  For a long time, I could think in systems faster than I could build them.</p> 
+<p align="center">  Codex and Claude Code changed that. </p>
+<p align="center">  Now I use a workflow that lets me turn architecture into working systems at the speed I design. 
 </p>
 
 <p align="center">
