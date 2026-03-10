@@ -1,11 +1,15 @@
 # Swayam Shah
 
 <p align="center">
-  <strong>Applied AI • Multi-agent systems • Federated learning • AI infrastructure</strong>
+  <strong>Building at the frontier where Web3 and AI converge.</strong>
 </p>
 
 <p align="center">
-  I build practical AI systems where agent orchestration, privacy-aware ML, and product reality meet.
+  Tinkering with Clawdbot to build a multi-agent orchestration system.
+</p>
+
+<p align="center">
+  Applied AI • Multi-agent systems • Federated learning • AI infrastructure
 </p>
 
 <p align="center">
