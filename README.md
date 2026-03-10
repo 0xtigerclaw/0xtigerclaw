@@ -1,7 +1,7 @@
 # Swayam Shah
 
 <p align="center">
-  <strong>Building at the frontier where Web3 and AI converge.</strong>
+  <strong>Building at the frontier where AI and Web3 converge.</strong>
 </p>
 
 <p align="center">
