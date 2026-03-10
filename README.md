@@ -1,17 +1,15 @@
 # Swayam Shah
 
 <p align="center">
-  <strong>Building at the frontier where AI and Web3 converge.</strong>
+  <strong>Building applied AI systems, multi-agent workflows, and federated learning infrastructure.</strong>
 </p>
 
 <p align="center">
-  Tinkering with Clawdbot to build a multi-agent orchestration system.
+  Founder-operator with a background in protocol design, cryptoeconomics, and complex technical systems.
 </p>
 
 <p align="center">
-  For a long time, I could think in systems faster than I could build them.</p> 
-<p align="center">  Codex and Claude Code changed that. </p>
-<p align="center">  Now I use a workflow that lets me turn architecture into working systems at the speed I design. 
+  Using Codex and Claude Code to turn architecture into working systems at the speed I design.
 </p>
 
 <p align="center">
@@ -21,9 +19,8 @@
   <a href="https://x.com/BotsnBlocks">X</a>
 </p>
 
-> **Inclined toward:** agent systems, federated learning, privacy-aware AI, and infrastructure that survives real-world constraints.  
-> **Working on:** multi-agent orchestration with `clawdbot-the-endgame`, practical workflows with Codex and Claude Code, and applied AI tooling that people can actually use.  
-> **Excited by:** context engineering, reinforcement learning, memory systems for agents, and translating research into durable products.
+> **Working on:** multi-agent orchestration with `clawdbot-the-endgame`, privacy-aware AI through SoraChain AI, and practical workflows built with Codex and Claude Code.  
+> **Excited by:** context engineering, reinforcement learning, memory systems for agents, and turning research ideas into durable tools.
 
 ## Focus
 
