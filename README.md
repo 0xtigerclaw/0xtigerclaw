@@ -31,7 +31,7 @@
 
 ## Highlights
 
-- 8+ years across AI, distributed systems, solution architecture, and stakeholder-heavy technical delivery
+- 10+ years across AI, distributed systems, solution architecture, and stakeholder-heavy technical delivery
 - Founder of `Build Superagency` (AI Upskilling Workshops, The Netherlands) and `SoraChain AI`
 - Former roles across Binance, ZetaChain, and ICTU (Dutch Government)
 - Supported 200+ ecosystem teams on architecture, integration, and launch
