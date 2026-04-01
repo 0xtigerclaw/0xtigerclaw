@@ -20,7 +20,7 @@
 - Production-grade AI systems (research -> deployment)
 - OpenClaw execution workflows
 
-**Exploring**
+**Learning**
 - Context engineering
 - Reinforcement learning
 - Memory systems for agents
