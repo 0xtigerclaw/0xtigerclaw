@@ -1,4 +1,6 @@
+<p align="center">
 # Swayam Shah
+</p>
 
 <p align="center">
   <strong>Building applied AI systems, multi-agent workflows, and privacy-aware infrastructure.</strong>
