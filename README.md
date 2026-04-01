@@ -83,8 +83,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xtigerclaw&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170" alt="GitHub stats for 0xtigerclaw" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xtigerclaw&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top languages for 0xtigerclaw" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xtigerclaw&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170" alt="GitHub stats for 0xtigerclaw" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xtigerclaw&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top languages for 0xtigerclaw" />
 </p>
 
 <p align="center">
