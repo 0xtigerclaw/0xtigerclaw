@@ -14,12 +14,17 @@
 
 ## Current Focus
 
-| Now | Exploring |
-| --- | --- |
-| Multi-agent orchestration ([`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame)) | Context engineering |
-| Privacy-aware AI (**SoraChain AI**) | Reinforcement learning |
-| Production-grade AI systems (research -> deployment) | Memory systems for agents |
-| OpenClaw execution workflows | Turning research ideas into durable tools |
+**Now**
+- Multi-agent orchestration ([`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame))
+- Privacy-aware AI (**SoraChain AI**)
+- Production-grade AI systems (research -> deployment)
+- OpenClaw execution workflows
+
+**Exploring**
+- Context engineering
+- Reinforcement learning
+- Memory systems for agents
+- Turning research ideas into durable tools
 
 ## Flagship Projects
 
