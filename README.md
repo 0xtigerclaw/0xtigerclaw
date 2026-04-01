@@ -21,9 +21,17 @@
   <a href="https://github.com/0xtigerclaw">GitHub</a>
 </p>
 
-
-> **Currently building:** OpenClaw systems, multi-agent orchaestration systems, and privacy-aware AI infrastructure.  
-> **Research trajectory:** foundational AI research via context engineering, parameter-constrained modeling, agent reliability, and OpenFlow-style orchestration systems.
+> [!IMPORTANT]
+> **Working On**
+> - Multi-agent orchestration with [`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame)
+> - Privacy-aware AI through **SoraChain AI**
+> - Practical workflows built with **Codex** and **Claude Code**
+>
+> **Excited By**
+> - Context engineering
+> - Reinforcement learning
+> - Memory systems for agents
+> - Turning research ideas into durable tools
 
 ## What I'm Building Now
 
