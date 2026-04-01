@@ -1,5 +1,5 @@
 <p align="center">
-<strong> Swayam Shah </strong>
+<h1> Swayam Shah </h1>
 </p>
 
 <p align="center">
