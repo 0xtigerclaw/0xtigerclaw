@@ -21,12 +21,9 @@
   <a href="https://github.com/0xtigerclaw">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,swift,pytorch,docker,kubernetes,postgres,linux" />
-</p>
 
-> **Currently building:** OpenClaw systems, local-first multi-agent execution workflows, and privacy-aware AI infrastructure.  
-> **Research trajectory:** foundational AI research via parameter-constrained modeling, agent reliability, and OpenFlow-style orchestration systems.
+> **Currently building:** OpenClaw systems, multi-agent orchaestration systems, and privacy-aware AI infrastructure.  
+> **Research trajectory:** foundational AI research via context engineering, parameter-constrained modeling, agent reliability, and OpenFlow-style orchestration systems.
 
 ## What I'm Building Now
 
