@@ -5,12 +5,7 @@
 </p>
 
 <p align="center">
-  Founder-operator with a background in protocol design, cryptoeconomics, and complex technical systems.
-</p>
-
-<p align="center">
-  For a long time, I could think in systems faster than I could build them. Codex, Claude Code, and OpenClaw changed that.  
-  Now I run an execution workflow that turns architecture into working systems at the speed I design.
+  Founder-operator with experience across Binance, ZetaChain, ICTU (Dutch Government), and ecosystem work with 200+ teams.
 </p>
 
 <p align="center">
@@ -33,50 +28,34 @@
 > - Memory systems for agents
 > - Turning research ideas into durable tools
 
-## What I'm Building Now
-
-- Building and refining multi-agent operating systems through OpenClaw projects
-- Shipping practical AI systems and federated learning workflows through SoraChain AI
-- Running execution-focused AI upskilling workshops through [Build Superagency](https://buildsuperagency.com/)
-- Turning AI-assisted coding and AI-assisted marketing workflows into production outcomes
-
-## OpenClaw Builds
+## Flagship Projects
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| [`openclaw_mirofish_outreach`](https://github.com/0xtigerclaw/openclaw_mirofish_outreach) | OpenClaw outreach workflow system for structured execution and context handling | 🟢 Active |
 | [`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame) | Local-first multi-agent operating system for research, hiring, and structured execution | 🟢 Active |
+| [`openclaw_mirofish_outreach`](https://github.com/0xtigerclaw/openclaw_mirofish_outreach) | OpenClaw outreach workflow system for autonomous, context-aware execution | 🟢 Active |
+| [`parameter-golf`](https://github.com/0xtigerclaw/parameter-golf) | Foundational AI research track (parameter-constrained model optimization) | 🟢 Active |
+| [`healthcare_ortho`](https://github.com/0xtigerclaw/healthcare_ortho) | Federated learning healthcare PoC around SoraChain AI | 🔵 Stable |
+| [`Pomodoro-Cube`](https://github.com/0xtigerclaw/Pomodoro-Cube) | Swift app for focused work sessions | 🔵 Stable |
 
-## Foundational AI Research Track
+## Execution Methodology
 
-- [`parameter-golf`](https://github.com/0xtigerclaw/parameter-golf): foundational-model optimization in parameter-constrained settings
-- Exploring architecture-level tradeoffs across compression, quantization, recurrence, and test-time compute
-- Focused on translating research intuition into reproducible engineering artifacts
+- System-design-first approach: architecture, constraints, and failure modes before implementation.
+- AI-assisted build loop: Codex + Claude Code as force multipliers for speed and breadth.
+- Human judgment stays central: tradeoff decisions, reliability standards, and production quality bar.
 
-## Tool Mastery
+## Research Direction
 
-- **Codex:** architecture-to-implementation acceleration, multi-file refactors, execution loops
-- **Claude Code:** deep reasoning, long-context debugging, and system-level design iteration
-- **OpenClaw:** ground-up multi-agent orchestration and structured execution workflows under real operational constraints
+- Foundational AI research through parameter-constrained modeling and efficient architectures.
+- Agent reliability: memory design, evaluation, and long-horizon orchestration.
+- Federated and privacy-aware AI systems that translate research into deployable products.
 
 ## Highlights
 
-- 10+ years across AI systems, distributed architectures, and stakeholder-heavy technical delivery
-- Founder of [Build Superagency](https://buildsuperagency.com/) and SoraChain AI
-- Former roles across Binance, ZetaChain, and ICTU (Dutch Government)
-- Supported 200+ ecosystem teams on architecture, integration, and launch
-- Speaker at NVIDIA, Global Open Source AI Conference (GLOSAIC), and OpenAI community events
-
-## Featured Work
-
-| Project | What it is | Status |
-| --- | --- | --- |
-| [`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame) | Multi-agent operating system with local-first execution design | 🟢 Active |
-| [`openclaw_mirofish_outreach`](https://github.com/0xtigerclaw/openclaw_mirofish_outreach) | OpenClaw outreach orchestration workflow | 🟢 Active |
-| [`parameter-golf`](https://github.com/0xtigerclaw/parameter-golf) | Foundational AI research track on parameter-constrained model performance | 🟢 Active |
-| [`healthcare_ortho`](https://github.com/0xtigerclaw/healthcare_ortho) | Federated learning healthcare proof of concept around SoraChain AI | 🔵 Stable |
-| [`FL`](https://github.com/0xtigerclaw/FL) | Federated learning experiments and implementation work | 🟡 Incubating |
-| [`Pomodoro-Cube`](https://github.com/0xtigerclaw/Pomodoro-Cube) | Swift build for focused work sessions | 🔵 Stable |
+- 10+ years in AI systems, distributed architecture, and technical strategy.
+- Founder of [Build Superagency](https://buildsuperagency.com/) and SoraChain AI.
+- Speaker at NVIDIA, Global Open Source AI Conference (GLOSAIC), and OpenAI community events.
+- Background in protocol design and cryptoeconomics with deep execution across Web3 x AI.
 
 ## Open To
 
