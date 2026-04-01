@@ -12,17 +12,14 @@
   <a href="https://botsnblocks.substack.com/">Substack</a>
 </p>
 
-> [!IMPORTANT]
-> **Working On**
-> - Multi-agent orchestration with [`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame)
-> - Privacy-aware AI through **SoraChain AI**
-> - Shipping production-grade AI systems from research to deployment
->
-> **Excited By**
-> - Context engineering
-> - Reinforcement learning
-> - Memory systems for agents
-> - Turning research ideas into durable tools
+## Current Focus
+
+| Now | Exploring |
+| --- | --- |
+| Multi-agent orchestration ([`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame)) | Context engineering |
+| Privacy-aware AI (**SoraChain AI**) | Reinforcement learning |
+| Production-grade AI systems (research -> deployment) | Memory systems for agents |
+| OpenClaw execution workflows | Turning research ideas into durable tools |
 
 ## Flagship Projects
 
