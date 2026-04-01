@@ -13,14 +13,14 @@
   <a href="https://www.linkedin.com/in/swayamshah/">LinkedIn</a> ·
   <a href="mailto:swayam@sorachain.ai">Email</a> ·
   <a href="https://x.com/BotsnBlocks">X</a> ·
-  <a href="https://github.com/0xtigerclaw">GitHub</a>
+  <a href="https://botsnblocks.substack.com/">Substack</a>
 </p>
 
 > [!IMPORTANT]
 > **Working On**
 > - Multi-agent orchestration with [`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame)
 > - Privacy-aware AI through **SoraChain AI**
-> - Practical workflows built with **Codex** and **Claude Code**
+> - Shipping production-grade AI systems from research to deployment
 >
 > **Excited By**
 > - Context engineering
