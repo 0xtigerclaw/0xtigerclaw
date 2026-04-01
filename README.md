@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Founder-operator with experience across Binance, ZetaChain, ICTU (Dutch Government), and ecosystem work with 200+ teams.
+  I build at the intersection of multi-agent architecture, privacy-aware AI, and foundational AI research. 
 </p>
 
 <p align="center">
