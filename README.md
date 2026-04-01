@@ -27,11 +27,12 @@
 > - Privacy-aware AI through **SoraChain AI**
 > - Practical workflows built with **Codex** and **Claude Code**
 >
-> **Excited By**
+> **Curiosity these days**
+> - Pre-Training
 > - Context engineering
 > - Reinforcement learning
 > - Memory systems for agents
-> - Turning research ideas into durable tools
+> - Reverse Engineering Claude Code
 
 ## What I'm Building Now
 
