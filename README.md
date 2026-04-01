@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  I build at the intersection of multi-agent architecture, privacy-aware AI, and foundational AI research. 
-</p>
-
-<p align="center">
   <a href="https://www.swayamshah.com/">Website</a> ·
   <a href="https://www.linkedin.com/in/swayamshah/">LinkedIn</a> ·
   <a href="mailto:swayam@sorachain.ai">Email</a> ·
