@@ -41,21 +41,19 @@
 ## Execution Methodology
 
 - System-design-first approach: architecture, constraints, and failure modes before implementation.
-- AI-assisted build loop: Codex + Claude Code as force multipliers for speed and breadth.
-- Human judgment stays central: tradeoff decisions, reliability standards, and production quality bar.
+- AI-assisted build loop: Codex + Claude Code + Antigravity as force multipliers for speed and breadth.
 
 ## Research Direction
 
 - Foundational AI research through parameter-constrained modeling and efficient architectures.
-- Agent reliability: memory design, evaluation, and long-horizon orchestration.
+- Agent reliability: context engineering, memory design, evaluation, and long-horizon orchestration.
 - Federated and privacy-aware AI systems that translate research into deployable products.
 
 ## Highlights
 
-- 10+ years in AI systems, distributed architecture, and technical strategy.
+- 10+ years in distributed architecture, solutioning and technical strategy.
 - Founder of [Build Superagency](https://buildsuperagency.com/) and SoraChain AI.
 - Speaker at NVIDIA, Global Open Source AI Conference (GLOSAIC), and OpenAI community events.
-- Background in protocol design and cryptoeconomics with deep execution across Web3 x AI.
 
 ## Open To
 
