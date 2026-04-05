@@ -1,7 +1,7 @@
 # Swayam Shah
 
 <p align="center">
-  <strong>Building applied AI systems, multi-agent workflows, and privacy-aware infrastructure.</strong>
+  <strong>Building applied AI systems, multi-agent workflows, and federated learning infrastructure.</strong>
 </p>
 
 <p align="center">
