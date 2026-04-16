@@ -16,7 +16,7 @@
 
 **Now**
 - Multi-agent orchestration ([`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame))
-- Privacy-aware AI (**SoraChain AI**)
+- Federated Learning (**SoraChain AI**)
 - Production-grade AI systems (research -> deployment)
 - OpenClaw execution workflows
 
