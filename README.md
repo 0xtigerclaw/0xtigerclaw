@@ -4,12 +4,9 @@
   <strong>Building multi-agent orchestration OS, federated learning infrastructure, and inference-aware AI systems.</strong>
 </p>
 
-<p align="center">
-  Founder at <a href="https://sorachain.ai/">SoraChain AI</a> and <a href="https://buildsuperagency.com/">Build Superagency</a> · Research track: <a href="https://github.com/0xtigerclaw/parameter-golf">Parameter Golf</a>
-</p>
 
 <p align="center">
-  <code>OpenClaw</code> · <code>Context Engineering</code> · <code>AI Foundation Research</code>
+  <code>OpenClaw</code> · <code>Context and Harness Engineering</code> · <code>AI Foundation Research</code>
 </p>
 
 <p align="center">
