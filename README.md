@@ -1,7 +1,7 @@
 # Swayam Shah
 
 <p align="center">
-  <strong>Building multi-agent orchestration OS, federated learning infrastructure, and inference-aware AI systems.</strong>
+  <strong>Building multi-agent orchestration OS, federated learning infrastructure, and inference economics.</strong>
 </p>
 
 <p align="center">
