@@ -1,11 +1,11 @@
 # Swayam Shah
 
 <p align="center">
-  <strong>Building multi-agent orchestration OS, federated learning infrastructure, and inference economics.</strong>
+  <strong>Building agents, applied AI systems, and the five-layer AI stack from infrastructure to workflows.</strong>
 </p>
 
 <p align="center">
-  <code>Federated Learning</code> · <code>OpenClaw</code> · <code>Context and Harness Engineering</code> · <code>AI Foundation Research</code>
+  <code>Agents</code> · <code>Applied AI</code> · <code>Context and Harness Engineering</code> · <code>Inference Economics</code>
 </p>
 
 <p align="center">
@@ -16,26 +16,27 @@
   <a href="https://botsnblocks.substack.com/">Substack</a>
 </p>
 
-## Main Highlight
+## Current Direction
 
-### [`SoraChain AI`](https://github.com/0xtigerclaw/sorachain_ai)
+I am focused on agents and applied AI: how model capability becomes reliable work through context, harnesses, orchestration, evaluation, and product workflows.
 
-SoraChain AI is a blockchain-native federated learning protocol for trustless model-to-data training. The work combines federated learning, on-chain provenance, validator-based update checks, differential privacy, zero-knowledge proofs, and cryptoeconomic incentives so distributed participants can improve shared models without centralising raw data.
+The working map is a five-layer AI stack:
 
-**Whitepaper:** [SoraChain AI: A Blockchain-Native Federated Learning Protocol](https://github.com/0xtigerclaw/sorachain_ai/blob/main/docs/sorachain-ai-whitepaper.pdf)
-
-**Core ideas**
-- Collaborative Model Update (CMU) protocol for trustless federated learning coordination
-- Three-layer architecture: Base Layer, SoraIntelligence, and SoraNets
-- Defence-in-depth model for poisoning resistance, Sybil resistance, privacy, and verifiability
-- Framework-agnostic integration path for Flower, NVFlare, OpenFL, PyTorch, Keras, ONNX, and REST/gRPC inference
+| Layer | What I am studying and building |
+| --- | --- |
+| **Infrastructure & inference economics** | Compute, APIs, model pricing, deployment constraints, and cost-aware systems |
+| **Models & learning** | Model behaviour, efficient architectures, parameter-constrained experiments, and research translation |
+| **Context, data & memory** | Context engineering, retrieval, memory, state, and workflow-specific knowledge |
+| **Agents & harnesses** | Tool use, guardrails, multi-agent orchestration, harness engineering, and evaluation loops |
+| **Products & adoption** | Applied AI workflows, enterprise adoption, AI-assisted work, workshops, and local community building |
 
 ## Current Focus
 
 **Now**
-- SoraChain AI: trustless federated learning infrastructure
-- Building multi-agent orchestration OS
-- FlowState, Prax, OpenClaw, and Clawdbot
+- Agents and applied AI systems
+- OpenClaw, Clawdbot, FlowState, and BAML GTM OS
+- Context engineering and harness engineering
+- Understanding the five-layer AI stack across infrastructure, models, context, agents, and applications
 - AI systems research through Parameter Golf and Token Index
 
 **Research & Systems Interests**
@@ -60,6 +61,7 @@ SoraChain AI is a blockchain-native federated learning protocol for trustless mo
 | --- | --- | --- |
 | [`parameter-golf`](https://github.com/0xtigerclaw/parameter-golf) | OpenAI Parameter Golf experiments for parameter-constrained language modeling, ablations, and efficient architecture tradeoffs | 🟢 Active |
 | [`token-index-global`](https://github.com/0xtigerclaw/token-index-global) | Sourced editorial model of coding-assistant inference spend across countries using model pricing, electricity, and price-level proxies | 🟢 Active |
+| [`sorachain_ai`](https://github.com/0xtigerclaw/sorachain_ai) | Prior whitepaper and prototype work on blockchain-native federated learning, model-to-data training, and privacy-preserving AI coordination | 📄 Research artifact |
 
 ## OpenClaw Builds
 
@@ -74,16 +76,16 @@ SoraChain AI is a blockchain-native federated learning protocol for trustless mo
 
 ## Research Direction
 
-- SoraChain AI: blockchain-native coordination for federated learning, privacy-preserving model updates, and incentive-aligned training networks.
+- Agent reliability: context engineering, harness engineering, memory design, evaluation, and long-horizon orchestration.
+- Applied AI systems that connect models, tools, workflows, and production adoption.
 - Foundational AI research through parameter-constrained modeling and efficient architectures.
-- Agent reliability: context engineering, memory design, evaluation, and long-horizon orchestration.
 - Inference economics: model pricing, compute markets, affordability, and cost-aware AI deployment.
-- Federated and privacy-aware AI systems that translate research into deployable products.
+- Prior federated and privacy-aware AI research through SoraChain AI.
 
 ## Highlights
 
 - 10+ years in distributed architecture, solutioning and technical strategy.
-- Founder of [Build Superagency](https://buildsuperagency.com/) and SoraChain AI.
+- Founder of [Build Superagency](https://buildsuperagency.com/); previously built SoraChain AI whitepaper and prototypes.
 - Speaker at NVIDIA, Global Open Source AI Conference (GLOSAIC), and OpenAI community events.
 
 ## Open To
