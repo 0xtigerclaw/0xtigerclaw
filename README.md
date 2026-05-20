@@ -75,6 +75,7 @@ The working map is a five-layer AI stack:
 
 - System-design-first approach: architecture, constraints, and failure modes before implementation.
 - AI-assisted build loop: Codex, Claude Code, and OpenClaw as force multipliers for speed and breadth.
+- Agent framework experience across CrewAI, LangChain, and custom orchestration patterns.
 
 ## Research Direction
 
@@ -94,7 +95,7 @@ The working map is a five-layer AI stack:
 ## Open To
 
 - Collaborating on foundational AI research (model efficiency, agent reliability, evaluation systems)
-- Building multi-agent systems from the ground up with strong architecture and execution discipline
+- Building multi-agent systems for enterprises from the ground up with strong architecture and execution discipline
 - Working with teams translating AI research into production-grade tools and workflows
 - Technical talks and advisory
 
