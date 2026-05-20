@@ -4,9 +4,8 @@
   <strong>Building multi-agent orchestration OS, federated learning infrastructure, and inference-aware AI systems.</strong>
 </p>
 
-
 <p align="center">
-  <code>OpenClaw</code> · <code>Context and Harness Engineering</code> · <code>AI Foundation Research</code>
+  <code>Federated Learning</code> · <code>OpenClaw</code> · <code>Context and Harness Engineering</code> · <code>AI Foundation Research</code>
 </p>
 
 <p align="center">
@@ -17,12 +16,26 @@
   <a href="https://botsnblocks.substack.com/">Substack</a>
 </p>
 
+## Main Highlight
+
+### [`SoraChain AI`](https://github.com/0xtigerclaw/sorachain_ai)
+
+SoraChain AI is a blockchain-native federated learning protocol for trustless model-to-data training. The work combines federated learning, on-chain provenance, validator-based update checks, differential privacy, zero-knowledge proofs, and cryptoeconomic incentives so distributed participants can improve shared models without centralising raw data.
+
+**Whitepaper:** [SoraChain AI: A Blockchain-Native Federated Learning Protocol](https://github.com/0xtigerclaw/sorachain_ai/blob/main/docs/sorachain-ai-whitepaper.pdf)
+
+**Core ideas**
+- Collaborative Model Update (CMU) protocol for trustless federated learning coordination
+- Three-layer architecture: Base Layer, SoraIntelligence, and SoraNets
+- Defence-in-depth model for poisoning resistance, Sybil resistance, privacy, and verifiability
+- Framework-agnostic integration path for Flower, NVFlare, OpenFL, PyTorch, Keras, ONNX, and REST/gRPC inference
+
 ## Current Focus
 
 **Now**
+- SoraChain AI: trustless federated learning infrastructure
 - Building multi-agent orchestration OS
 - FlowState, Prax, OpenClaw, and Clawdbot
-- Federated learning infrastructure through SoraChain AI
 - AI systems research through Parameter Golf and Token Index
 
 **Research & Systems Interests**
@@ -61,6 +74,7 @@
 
 ## Research Direction
 
+- SoraChain AI: blockchain-native coordination for federated learning, privacy-preserving model updates, and incentive-aligned training networks.
 - Foundational AI research through parameter-constrained modeling and efficient architectures.
 - Agent reliability: context engineering, memory design, evaluation, and long-horizon orchestration.
 - Inference economics: model pricing, compute markets, affordability, and cost-aware AI deployment.
