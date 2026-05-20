@@ -20,7 +20,7 @@
 
 ## Current Direction
 
-I am focused on agents and applied AI: how model capability becomes reliable work through context, harnesses, orchestration, evaluation, and product workflows. I also build [Build Superagency](https://buildsuperagency.com/) and write the [Superagency Newsletter](https://www.linkedin.com/newsletters/superagency-7448732782857539584/).
+I am focused on agents and applied AI: how model capability becomes reliable work through context, harnesses, orchestration, evaluation, and product workflows.
 
 The working map is a five-layer AI stack:
 
@@ -30,7 +30,7 @@ The working map is a five-layer AI stack:
 | **Models & learning** | Model behaviour, efficient architectures, parameter-constrained experiments, and research translation |
 | **Context, data & memory** | Context engineering, retrieval, memory, state, and workflow-specific knowledge |
 | **Agents & harnesses** | Tool use, guardrails, multi-agent orchestration, harness engineering, and evaluation loops |
-| **Products & adoption** | Applied AI workflows, enterprise adoption, AI-assisted work, newsletters, and local community building |
+| **Products & adoption** | Applied AI workflows, enterprise adoption, AI-assisted work, and local community building |
 
 ## Current Focus
 
@@ -38,7 +38,6 @@ The working map is a five-layer AI stack:
 - Agents and applied AI systems
 - OpenClaw, Clawdbot, FlowState, and BAML GTM OS
 - Context engineering and harness engineering
-- [Build Superagency](https://buildsuperagency.com/) and the [Superagency Newsletter](https://www.linkedin.com/newsletters/superagency-7448732782857539584/)
 - Understanding the five-layer AI stack across infrastructure, models, context, agents, and applications
 - AI systems research through Parameter Golf and Token Index
 
@@ -88,7 +87,7 @@ The working map is a five-layer AI stack:
 ## Highlights
 
 - 10+ years in distributed architecture, solutioning and technical strategy.
-- Founder of [Build Superagency](https://buildsuperagency.com/), running AI upskilling workshops and the [Superagency Newsletter](https://www.linkedin.com/newsletters/superagency-7448732782857539584/).
+- Runs [AI upskilling workshops](https://buildsuperagency.com/) through Build Superagency.
 - Previously built SoraChain AI whitepaper and prototypes.
 - Speaker at NVIDIA, Global Open Source AI Conference (GLOSAIC), and OpenAI community events.
 
@@ -97,7 +96,7 @@ The working map is a five-layer AI stack:
 - Collaborating on foundational AI research (model efficiency, agent reliability, evaluation systems)
 - Building multi-agent systems from the ground up with strong architecture and execution discipline
 - Working with teams translating AI research into production-grade tools and workflows
-- Technical talks, advisory, and applied AI education
+- Technical talks and advisory
 
 ## GitHub Stats
 
