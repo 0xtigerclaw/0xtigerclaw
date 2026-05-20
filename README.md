@@ -1,7 +1,15 @@
 # Swayam Shah
 
 <p align="center">
-  <strong>Building applied AI systems, multi-agent workflows, and federated learning infrastructure.</strong>
+  <strong>Building multi-agent orchestration OS, federated learning infrastructure, and inference-aware AI systems.</strong>
+</p>
+
+<p align="center">
+  Founder at <a href="https://sorachain.ai/">SoraChain AI</a> and <a href="https://buildsuperagency.com/">Build Superagency</a> · Research track: <a href="https://github.com/0xtigerclaw/parameter-golf">Parameter Golf</a>
+</p>
+
+<p align="center">
+  <code>OpenClaw</code> · <code>Context Engineering</code> · <code>AI Foundation Research</code>
 </p>
 
 <p align="center">
@@ -15,36 +23,50 @@
 ## Current Focus
 
 **Now**
-- Multi-agent orchestration ([`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame))
-- Federated Learning (**SoraChain AI**)
-- Production-grade AI systems (research -> deployment)
-- OpenClaw execution workflows
+- Building multi-agent orchestration OS
+- FlowState, Prax, OpenClaw, and Clawdbot
+- Federated learning infrastructure through SoraChain AI
+- AI systems research through Parameter Golf and Token Index
 
-**Learning**
-- Context engineering
-- Reinforcement learning
-- Memory systems for agents
+**Research & Systems Interests**
+- Context engineering and harness engineering
+- Agent reliability, memory systems, and evaluation loops
+- Inference economics: pricing, compute markets, country-level cost structure, and AI affordability
+- Federated learning and distributed training
 - Turning research ideas into durable tools
 
-## Flagship Projects
+## Production Systems
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| [`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame) | Local-first multi-agent operating system for research, hiring, and structured execution | 🟢 Active |
-| [`openclaw_mirofish_outreach`](https://github.com/0xtigerclaw/openclaw_mirofish_outreach) | OpenClaw outreach workflow system for autonomous, context-aware execution | 🟢 Active |
-| [`parameter-golf`](https://github.com/0xtigerclaw/parameter-golf) | Foundational AI research track (parameter-constrained model optimization) | 🟢 Active |
-| [`healthcare_ortho`](https://github.com/0xtigerclaw/healthcare_ortho) | Federated learning healthcare PoC around SoraChain AI | 🔵 Stable |
-| [`Pomodoro-Cube`](https://github.com/0xtigerclaw/Pomodoro-Cube) | Swift app for focused work sessions | 🔵 Stable |
+| [`zzp_bunq`](https://github.com/0xtigerclaw/zzp_bunq) | FlowState: multi-agent financial ops for Dutch freelancers on live bunq APIs, with OpenClaw orchestration and CrabTrap guardrails | 🟢 Active |
+| [`prax`](https://github.com/0xtigerclaw/prax) | Compute/API credits marketplace with Solana Anchor auctions, Token-2022 escrow, and a Next.js frontend | 🟢 Active |
+| [`BAML_GTM_AGENTIC_OS`](https://github.com/0xtigerclaw/BAML_GTM_AGENTIC_OS) | Agentic GTM OS demo for developer opportunity radar, OpenClaw workflow, and human-gated outreach | 🟢 Active |
+| [`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame) | Local-first multi-agent orchestration OS for research, hiring, workflows, and structured execution | 🟢 Active |
+
+## Research Artifacts
+
+| Project | What it is | Status |
+| --- | --- | --- |
+| [`parameter-golf`](https://github.com/0xtigerclaw/parameter-golf) | OpenAI Parameter Golf experiments for parameter-constrained language modeling, ablations, and efficient architecture tradeoffs | 🟢 Active |
+| [`token-index-global`](https://github.com/0xtigerclaw/token-index-global) | Sourced editorial model of coding-assistant inference spend across countries using model pricing, electricity, and price-level proxies | 🟢 Active |
+
+## OpenClaw Builds
+
+| Project | What it is | Status |
+| --- | --- | --- |
+| [`openclaw_mirofish_outreach`](https://github.com/0xtigerclaw/openclaw_mirofish_outreach) | OpenClaw outreach workflow for context-aware prospect research, personalized messaging, and human-gated execution | 🟢 Active |
 
 ## Execution Methodology
 
 - System-design-first approach: architecture, constraints, and failure modes before implementation.
-- AI-assisted build loop: Codex + Claude Code + Antigravity as force multipliers for speed and breadth.
+- AI-assisted build loop: Codex, Claude Code, and OpenClaw as force multipliers for speed and breadth.
 
 ## Research Direction
 
 - Foundational AI research through parameter-constrained modeling and efficient architectures.
 - Agent reliability: context engineering, memory design, evaluation, and long-horizon orchestration.
+- Inference economics: model pricing, compute markets, affordability, and cost-aware AI deployment.
 - Federated and privacy-aware AI systems that translate research into deployable products.
 
 ## Highlights
