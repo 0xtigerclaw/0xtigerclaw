@@ -14,8 +14,8 @@
   <a href="https://www.linkedin.com/newsletters/superagency-7448732782857539584/">Superagency Newsletter</a> ·
   <a href="https://www.linkedin.com/in/swayamshah/">LinkedIn</a> ·
   <a href="mailto:swayam@sorachain.ai">Email</a> ·
-  <a href="https://x.com/BotsnBlocks">X</a> ·
-  <a href="https://botsnblocks.substack.com/">Substack</a>
+  <a href="https://x.com/0xsuperagent">X</a> ·
+  <a href="https://superagents.substack.com/">Writing</a>
 </p>
 
 ## Current Direction
