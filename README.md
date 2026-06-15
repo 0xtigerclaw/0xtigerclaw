@@ -36,7 +36,7 @@ The working map is a five-layer AI stack:
 
 **Now**
 - Agents and applied AI systems
-- OpenClaw, Clawdbot, FlowState, and BAML GTM OS
+- OpenClaw, Clawdbot, War Loops, FlowState, and GTM Agentic OS
 - Context engineering and harness engineering
 - Understanding the five-layer AI stack across infrastructure, models, context, agents, and applications
 - AI systems research through Parameter Golf and Token Index
@@ -52,9 +52,10 @@ The working map is a five-layer AI stack:
 
 | Project | What it is | Status |
 | --- | --- | --- |
+| [`war_loops`](https://github.com/0xtigerclaw/war_loops) | Autonomous frontend designer that captures URLs or images, extracts design specs, generates static and moving builds, and repairs them through judge-gated fidelity loops | 🟢 Active |
 | [`zzp_bunq`](https://github.com/0xtigerclaw/zzp_bunq) | FlowState: multi-agent financial ops for Dutch freelancers on live bunq APIs, with OpenClaw orchestration and CrabTrap guardrails | 🟢 Active |
-| [`prax`](https://github.com/0xtigerclaw/prax) | Compute/API credits marketplace with Solana Anchor auctions, Token-2022 escrow, and a Next.js frontend | 🟢 Active |
 | [`gtm-agentic-os`](https://github.com/0xtigerclaw/gtm-agentic-os) | GTM Agentic OS for developer opportunity radar, OpenClaw workflow, technical proof building, and human-gated response packages | 🟢 Active |
+| [`prax`](https://github.com/0xtigerclaw/prax) | Compute/API credits marketplace with Solana Anchor auctions, Token-2022 escrow, and a Next.js frontend | 🟢 Active |
 | [`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame) | Local-first multi-agent orchestration OS for research, hiring, workflows, and structured execution | 🟢 Active |
 
 ## Research Artifacts
@@ -62,6 +63,7 @@ The working map is a five-layer AI stack:
 | Project | What it is | Status |
 | --- | --- | --- |
 | [`parameter-golf`](https://github.com/0xtigerclaw/parameter-golf) | OpenAI Parameter Golf experiments for parameter-constrained language modeling, ablations, and efficient architecture tradeoffs | 🟢 Active |
+| [`inference_economics`](https://github.com/0xtigerclaw/inference_economics) | Frontier Cluster Lab: interactive learning interface for decode latency, batching, KV cache, topology, utilization, and cost-aware AI serving | 🟢 Active |
 | [`token-index-global`](https://github.com/0xtigerclaw/token-index-global) | Sourced editorial model of coding-assistant inference spend across countries using model pricing, electricity, and price-level proxies | 🟢 Active |
 | [`sorachain_ai`](https://github.com/0xtigerclaw/sorachain_ai) | Prior whitepaper and prototype work on blockchain-native federated learning, model-to-data training, and privacy-preserving AI coordination | 📄 Research artifact |
 
