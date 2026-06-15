@@ -1,21 +1,34 @@
 # Swayam Shah
 
 <p align="center">
-  <strong>Building Multi-agent OS, applied AI systems, and obsessively learning the five-layer AI stack from semiconductors to agents.</strong>
+  <strong>Building multi-agent operating systems and applied AI workflows.</strong><br/>
+  <span>Working across the AI stack: inference economics, model behavior, context systems, agent harnesses, and adoption.</span>
 </p>
 
 <p align="center">
-  <code>Agents</code> · <code>Applied AI</code> · <code>Context and Harness Engineering</code> · <code>Inference Economics</code>
+  <a href="https://www.swayamshah.com/"><strong>Portfolio</strong></a> ·
+  <a href="#production-systems"><strong>Projects</strong></a> ·
+  <a href="#research-artifacts"><strong>Research</strong></a> ·
+  <a href="https://superagents.substack.com/"><strong>Writing</strong></a> ·
+  <a href="https://buildsuperagency.com/"><strong>Workshops</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://www.swayamshah.com/">Website</a> ·
-  <a href="https://buildsuperagency.com/">Build Superagency</a> ·
-  <a href="https://www.linkedin.com/newsletters/superagency-7448732782857539584/">Superagency Newsletter</a> ·
+  <code>Multi-Agent Systems</code> · <code>OpenClaw</code> · <code>Context Engineering</code> · <code>Harness Engineering</code> · <code>Inference Economics</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xtigerclaw/war_loops">War Loops</a> ·
+  <a href="https://github.com/0xtigerclaw/clawdbot-the-endgame">Clawdbot</a> ·
+  <a href="https://github.com/0xtigerclaw/gtm-agentic-os">GTM Agentic OS</a> ·
+  <a href="https://github.com/0xtigerclaw/inference_economics">Frontier Cluster Lab</a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/swayamshah/">LinkedIn</a> ·
-  <a href="mailto:swayam@sorachain.ai">Email</a> ·
   <a href="https://x.com/0xsuperagent">X</a> ·
-  <a href="https://superagents.substack.com/">Writing</a>
+  <a href="https://www.linkedin.com/newsletters/superagency-7448732782857539584/">Superagency Newsletter</a> ·
+  <a href="mailto:swayam@sorachain.ai">Email</a>
 </p>
 
 ## Current Direction
