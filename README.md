@@ -54,7 +54,7 @@ The working map is a five-layer AI stack:
 | --- | --- | --- |
 | [`zzp_bunq`](https://github.com/0xtigerclaw/zzp_bunq) | FlowState: multi-agent financial ops for Dutch freelancers on live bunq APIs, with OpenClaw orchestration and CrabTrap guardrails | 🟢 Active |
 | [`prax`](https://github.com/0xtigerclaw/prax) | Compute/API credits marketplace with Solana Anchor auctions, Token-2022 escrow, and a Next.js frontend | 🟢 Active |
-| [`BAML_GTM_AGENTIC_OS`](https://github.com/0xtigerclaw/BAML_GTM_AGENTIC_OS) | Agentic GTM OS demo for developer opportunity radar, OpenClaw workflow, and human-gated outreach | 🟢 Active |
+| [`gtm-agentic-os`](https://github.com/0xtigerclaw/gtm-agentic-os) | GTM Agentic OS for developer opportunity radar, OpenClaw workflow, technical proof building, and human-gated response packages | 🟢 Active |
 | [`clawdbot-the-endgame`](https://github.com/0xtigerclaw/clawdbot-the-endgame) | Local-first multi-agent orchestration OS for research, hiring, workflows, and structured execution | 🟢 Active |
 
 ## Research Artifacts
