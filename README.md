@@ -21,7 +21,8 @@
   <a href="https://github.com/0xtigerclaw/war_loops">War Loops</a> ·
   <a href="https://github.com/0xtigerclaw/clawdbot-the-endgame">Clawdbot</a> ·
   <a href="https://github.com/0xtigerclaw/gtm-agentic-os">GTM Agentic OS</a> ·
-  <a href="https://github.com/0xtigerclaw/inference_economics">Frontier Cluster Lab</a>
+  <a href="https://github.com/0xtigerclaw/inference_economics">Frontier Cluster Lab</a> ·
+  <a href="https://github.com/0xtigerclaw/cua-legacy-replay">CUA Legacy Replay</a>
 </p>
 
 <p align="center">
@@ -52,7 +53,7 @@ The working map is a five-layer AI stack:
 - OpenClaw, Clawdbot, War Loops, FlowState, and GTM Agentic OS
 - Context engineering and harness engineering
 - Understanding the five-layer AI stack across infrastructure, models, context, agents, and applications
-- AI systems research through Parameter Golf and Token Index
+- AI systems research through Parameter Golf, Token Index, and Terminal-Bench task design (CUA Legacy Replay)
 
 **Research & Systems Interests**
 - Context engineering and harness engineering
@@ -78,6 +79,7 @@ The working map is a five-layer AI stack:
 | [`parameter-golf`](https://github.com/0xtigerclaw/parameter-golf) | OpenAI Parameter Golf experiments for parameter-constrained language modeling, ablations, and efficient architecture tradeoffs | 🟢 Active |
 | [`inference_economics`](https://github.com/0xtigerclaw/inference_economics) | Frontier Cluster Lab: interactive learning interface for decode latency, batching, KV cache, topology, utilization, and cost-aware AI serving | 🟢 Active |
 | [`token-index-global`](https://github.com/0xtigerclaw/token-index-global) | Sourced editorial model of coding-assistant inference spend across countries using model pricing, electricity, and price-level proxies | 🟢 Active |
+| [`cua-legacy-replay`](https://github.com/0xtigerclaw/cua-legacy-replay) | Terminal-Bench 3 task: reverse-engineer a sealed legacy CUA replay engine through a query-limited black-box simulator. Codex gpt-5.5 and Claude Opus 4.8 score 0.0/3 on `/run` and `/cheat` | 🟢 Active |
 | [`sorachain_ai`](https://github.com/0xtigerclaw/sorachain_ai) | Prior whitepaper and prototype work on blockchain-native federated learning, model-to-data training, and privacy-preserving AI coordination | 📄 Research artifact |
 
 ## OpenClaw Builds
