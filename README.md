@@ -67,7 +67,7 @@ The working map is a five-layer AI stack:
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| [`ai-native-investment-house`](https://github.com/0xtigerclaw/ai-native-investment-house) | Anonymized production agent-governance system for investment-firm records: deterministic context injection, pre-execution refusal rails, human approval gates, and tamper-evident traces | 🟢 Deployed |
+| [`ai-native-investment-house`](https://github.com/0xtigerclaw/ai-native-investment-house) | Building an AI-native investment house where institutional judgment compounds across every deal, through governed agents, durable context, human approval, and verifiable decision memory. [Vision](https://superagents.substack.com/p/building-the-frontier-investment) | 🟢 Deployed |
 | [`war_loops`](https://github.com/0xtigerclaw/war_loops) | Autonomous frontend designer that captures URLs or images, extracts design specs, generates static and moving builds, and repairs them through judge-gated fidelity loops | 🟢 Active |
 | [`zzp_bunq`](https://github.com/0xtigerclaw/zzp_bunq) | FlowState: multi-agent financial ops for Dutch freelancers on live bunq APIs, with OpenClaw orchestration and CrabTrap guardrails | 🟢 Active |
 | [`gtm-agentic-os`](https://github.com/0xtigerclaw/gtm-agentic-os) | GTM Agentic OS for developer opportunity radar, OpenClaw workflow, technical proof building, and human-gated response packages | 🟢 Active |
