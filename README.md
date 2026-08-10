@@ -118,13 +118,6 @@ The working map is a five-layer AI stack:
 - Working with teams translating AI research into production-grade tools and workflows
 - Technical talks and advisory
 
-## GitHub Stats
+## Explore
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xtigerclaw&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170" alt="GitHub stats for 0xtigerclaw" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xtigerclaw&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top languages for 0xtigerclaw" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xtigerclaw&hide_border=true&theme=tokyonight" height="170" alt="GitHub streak for 0xtigerclaw" />
-</p>
+Browse [all public repositories](https://github.com/0xtigerclaw?tab=repositories) for current code, experiments, and research artifacts.
