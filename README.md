@@ -118,6 +118,19 @@ The working map is a five-layer AI stack:
 - Working with teams translating AI research into production-grade tools and workflows
 - Technical talks and advisory
 
+## GitHub Activity
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution summary for 0xtigerclaw" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="180" alt="GitHub stats for 0xtigerclaw" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180" alt="Languages across public repositories" />
+</p>
+
+Cards are generated daily in this repository by GitHub Actions, so they do not depend on a public badge service.
+
 ## Explore
 
 Browse [all public repositories](https://github.com/0xtigerclaw?tab=repositories) for current code, experiments, and research artifacts.
