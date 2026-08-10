@@ -1,0 +1,27 @@
+name: Refresh profile summary cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Generate profile cards
+        uses: vn7n24fzkq/github-profile-summary-cards@09ba4dde3f9b05828cb99553561db3f4ff07703f
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: 0xtigerclaw
+          BRANCH_NAME: main
+          UTC_OFFSET: 2
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          THEME: github_dark
+          ANIMATION: none
